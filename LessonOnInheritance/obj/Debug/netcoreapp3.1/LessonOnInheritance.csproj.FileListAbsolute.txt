@@ -1,0 +1,13 @@
+C:\Users\USer\source\repos\LessonOnInheritance\LessonOnInheritance\bin\Debug\netcoreapp3.1\LessonOnInheritance.exe
+C:\Users\USer\source\repos\LessonOnInheritance\LessonOnInheritance\bin\Debug\netcoreapp3.1\LessonOnInheritance.deps.json
+C:\Users\USer\source\repos\LessonOnInheritance\LessonOnInheritance\bin\Debug\netcoreapp3.1\LessonOnInheritance.runtimeconfig.json
+C:\Users\USer\source\repos\LessonOnInheritance\LessonOnInheritance\bin\Debug\netcoreapp3.1\LessonOnInheritance.runtimeconfig.dev.json
+C:\Users\USer\source\repos\LessonOnInheritance\LessonOnInheritance\bin\Debug\netcoreapp3.1\LessonOnInheritance.dll
+C:\Users\USer\source\repos\LessonOnInheritance\LessonOnInheritance\bin\Debug\netcoreapp3.1\LessonOnInheritance.pdb
+C:\Users\USer\source\repos\LessonOnInheritance\LessonOnInheritance\obj\Debug\netcoreapp3.1\LessonOnInheritance.csprojAssemblyReference.cache
+C:\Users\USer\source\repos\LessonOnInheritance\LessonOnInheritance\obj\Debug\netcoreapp3.1\LessonOnInheritance.csproj.CoreCompileInputs.cache
+C:\Users\USer\source\repos\LessonOnInheritance\LessonOnInheritance\obj\Debug\netcoreapp3.1\LessonOnInheritance.AssemblyInfoInputs.cache
+C:\Users\USer\source\repos\LessonOnInheritance\LessonOnInheritance\obj\Debug\netcoreapp3.1\LessonOnInheritance.AssemblyInfo.cs
+C:\Users\USer\source\repos\LessonOnInheritance\LessonOnInheritance\obj\Debug\netcoreapp3.1\LessonOnInheritance.dll
+C:\Users\USer\source\repos\LessonOnInheritance\LessonOnInheritance\obj\Debug\netcoreapp3.1\LessonOnInheritance.pdb
+C:\Users\USer\source\repos\LessonOnInheritance\LessonOnInheritance\obj\Debug\netcoreapp3.1\LessonOnInheritance.genruntimeconfig.cache
