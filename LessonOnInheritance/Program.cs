@@ -6,6 +6,15 @@ namespace LessonOnInheritance
 {
     class Program
     {
+        static double Power(int x, int y)
+        {
+            double X = x;
+            for (int i = 1; i < y; i++)
+            {
+                X = X * x;
+            }
+            return X;
+        }
         static void ShowManager(Manager manager)
         {
             Write($"{manager.Name} \n{manager.Age} \n{manager.Sex} \n{manager.Position} \n{manager.Salary} \n \n");
@@ -61,6 +70,18 @@ namespace LessonOnInheritance
             foreignPassport.CountriesBeenTo = "Japan, Australia, Russia, The USA, Canada, The UK and Antarctica";
 
             ShowForeignPassport(foreignPassport);
+
+            double result = Power(30, 3);
+            WriteLine();
+            WriteLine($"{result}");
+
+            Power power = new Power();
+            WriteLine($"{ power.PowerNum(4, 4)}");
+
+            CalculatingTimeTransportFare calculatingTimeTransportFare = new CalculatingTimeTransportFare();
+
+            calculatingTimeTransportFare.Time
+           
 
 
         }
